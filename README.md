@@ -1,32 +1,3 @@
 ### Hola 👋
 
-```
- _          _ _
-| |__   ___| | | ___   ___   ___
-| '_ \ / _ \ | |/ _ \ / _ \ / _ \
-| | | |  __/ | | (_) | (_) | (_) |
-|_| |_|\___|_|_|\___/ \___/ \___/
-```
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=rahulvramesh&style=flat-square&label=PROFILE+VIEWS)
-
-I need it, so I built it 🚀 🐼 
-
-- 🌱 I’m currently learning RL
-- 📫 How to reach me: email me
-<!--
-**rahulvramesh/rahulvramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/rahulvramesh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2595780/rahulvramesh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahulvramesh) ![Profile Views](https://komarev.com/ghpvc/?username=rahulvramesh&style=flat-square&label=PROFILE+VIEWS)
